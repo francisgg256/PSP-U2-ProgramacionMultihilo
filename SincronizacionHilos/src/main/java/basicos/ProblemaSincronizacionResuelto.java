@@ -6,6 +6,7 @@ public class ProblemaSincronizacionResuelto {
 
     public static synchronized void incrementar()
     {
+
         contador++;
     }
 
